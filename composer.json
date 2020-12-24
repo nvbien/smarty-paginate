@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "smarty/smarty": "^2.6"
+        "smarty/smarty": "*"
     },
     "license": "MIT",
     "authors": [
