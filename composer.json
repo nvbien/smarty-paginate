@@ -1,0 +1,22 @@
+{
+    "name": "nvbien/smarty-paginate",
+    "description": "Forge from https://www.phpinsider.com/php/code/SmartyPaginate/ to use it easier from composer",
+    "type": "library",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/nvbien/smarty-paginate"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "^2.6"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Bien Nguyen Van",
+            "email": "ngvbien@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
